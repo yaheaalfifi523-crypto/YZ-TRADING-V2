@@ -2,4 +2,5 @@ yfinance
 streamlit
 pandas
 numpy
-streamlit-auto refresh
+requests
+streamlit-autorefresh
