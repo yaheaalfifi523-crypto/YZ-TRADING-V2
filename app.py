@@ -31,12 +31,12 @@ st.title("YZ Trading V2")
 
 
 SYMBOLS = [
-    "RBLX","CDE","RRC","ENPH","CHWY","HIMS","CELH","FAST","RIVN",
-    "LUV","ZETA","INTC","FTI","AA","ADM",
-    "EXEL","LEVI","MAS",
-    "VAL","TTD",
-    "UBER","STM","ON","SWKS","HAL","DVN","KO",
-    "BSx","NKE","TOST"
+    "RBLX", "CDE", "RRC", "ENPH", "CHWY", "HIMS", "CELH", "FAST", "MRK",
+    "LUV", "ZETA", "INTC", "FTI", "AA", "ADM", "MXL", "LULU", "DECK",
+    "EXEL", "LEVI", "MAS", "NEE", "NVO", "BEEM", "AMPX", "FLNC", "OSS", "PL",
+    "VAL", "TTD", "AVPT", "AOSL", "AAOI", "AXTI", "CRDO", "LPTH", "CTVA", "TSSI",
+    "UBER", "STM", "ON", "SWKS", "HAL", "DVN", "KO", "OPRX", "XERS", "CXDO", "CALX",
+    "BSX", "NKE", "TOST", "MRAM", "PG", "ABT", "TE", "CSCO", "WYFI", "NVDA"
 ]
 
 
